@@ -15,5 +15,6 @@ At line:1 char:1
 
 Solution: Set-ExecutionPolicy Unrestricted -Scope Process
 Run this command everytime you're using virtual env
+
 2. What is WSGI? 
 WSGI (Web Server Gateway Interface) is a specification that describes the communication between web servers and Python web applications or frameworks. It explains how a web server communicates with Python web applications or frameworks and how web applications or frameworks can be chained for processing a request.
