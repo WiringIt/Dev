@@ -18,3 +18,5 @@ Run this command everytime you're using virtual env
 
 2. What is WSGI? 
 WSGI (Web Server Gateway Interface) is a specification that describes the communication between web servers and Python web applications or frameworks. It explains how a web server communicates with Python web applications or frameworks and how web applications or frameworks can be chained for processing a request.
+
+3. What is a decorator? A decorator is a function that takes in another function as a parameter and then returns a function. This is possible because Python gives functions special status. A function can be used as a parameter and a return value, while also being assigned to a variable.
